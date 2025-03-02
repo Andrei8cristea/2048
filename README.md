@@ -1,4 +1,4 @@
-Cristea Andrei - 2048 Game Project
+# Cristea Andrei - 2048 Game Project
 
 This project is a Python implementation of the classic 2048 game. It includes both a console (text-based) version and a graphical interface using Pygame.
 Overview
